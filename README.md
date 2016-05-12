@@ -19,4 +19,5 @@ execute with:
 
 ./gtest
 
+--------------
 Program draws roughly 100k random triangles with an increasingly large maximum size and colors them randomly then exits.
