@@ -1,0 +1,1 @@
+/usr/bin/c++    -arch x86_64 -std=c++11 -stdlib=libc++ -framework OpenGL -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/gtest.dir/main.cpp.o  -o gtest  /usr/local/lib/libglfw3.dylib 
